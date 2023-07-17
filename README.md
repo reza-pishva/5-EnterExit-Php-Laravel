@@ -1,1 +1,1 @@
-# 5-entering-exiting
+# Power plant equipment entry and exit management software
